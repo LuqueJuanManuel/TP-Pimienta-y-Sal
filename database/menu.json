@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nombre": "Carpaccio fresco",
-        "descripcion": "Entrada Carpaccio de salmón con cítricos",
+        "descripcion": "",
         "precio": "65.50",
         "image": "Carpaccio-de-salmon.jpg"
     },

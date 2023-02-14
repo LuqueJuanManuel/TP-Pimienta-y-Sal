@@ -16,7 +16,7 @@
         <div class="ps-col l6 ps-padding-large">
           <h1 class="ps-center"><%= platos.nombre %></h1>
           <br />
-          <h4> <%= platos.description %></h4>
+          <h4> <%= platos.descripcion ? platos.descripcion : 'plato tipico' %></h4>
           <p class="ps-text-grey">
             U$S <%= platos.precio %>
           </p>
